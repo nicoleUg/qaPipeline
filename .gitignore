@@ -1,0 +1,5 @@
+reportes/
+mision/
+*.log
+.DS_Store
+Thumbs.db
