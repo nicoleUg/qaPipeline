@@ -65,4 +65,4 @@ Espresso Bs 12, latte Bs 18, brownie Bs 15. Envio Bs 8; gratis si el subtotal al
 
 ## Alcance
 
-Demo local de reglas de negocio: no es una tienda publicada ni realiza entregas o pagos. El repositorio y su URL deben crearse o proporcionarse para comprobar el checkout remoto. El ejemplo inicial de la calculadora se reemplaza por este proyecto para la entrega.
+Demo de reglas de negocio: no es una tienda publicada ni realiza entregas o pagos. Repositorio: https://github.com/nicoleUg/qaPipeline. Jenkins ya esta conectado a main mediante Pipeline script from SCM; el build #4 verifico el checkout remoto y termino en SUCCESS con 16 pruebas aprobadas. El ejemplo inicial de la calculadora se reemplaza por este proyecto para la entrega.
